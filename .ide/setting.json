@@ -22,7 +22,7 @@
       "type": "default"
     }
   },
-  "name": "modern_jetton",
+  "name": "blockcity_jetton",
   "language": "func",
   "template": "import",
   "network": "SANDBOX",
