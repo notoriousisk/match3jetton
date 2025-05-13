@@ -1,9 +1,9 @@
-#include "stdlib.func";
-#include "jetton-utils.func";
-#include "error-codes.func";
-#include "op-codes.func";
-#include "params.func";
-#include "messages.func";
+#include "stdlib.fc";
+#include "jetton-utils.fc";
+#include "error-codes.fc";
+#include "op-codes.fc";
+#include "params.fc";
+#include "messages.fc";
 
 const int min_tons_for_storage = 10000000; ;;ONE_TON / 100;
 ;; Note that 2 * gas_consumptions is expected to be able to cover fees on both wallets (sender and receiver)

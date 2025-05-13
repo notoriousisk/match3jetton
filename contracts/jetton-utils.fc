@@ -1,4 +1,4 @@
-#include "params.func";
+#include "params.fc";
 const int ONE_TON = 100;
 
 cell pack_jetton_wallet_data (int balance, slice owner, slice jetton_master, cell token_wallet_code) inline {
