@@ -1,0 +1,30 @@
+{
+  "tab": {
+    "items": [
+      {
+        "name": "deployJettonMinter.ts",
+        "path": "/projects/modern_jetton/scripts/deployJettonMinter.ts",
+        "type": "default"
+      },
+      {
+        "name": "error-codes.fc",
+        "path": "/projects/modern_jetton/contracts/error-codes.fc",
+        "type": "default"
+      },
+      {
+        "name": "message.cell.ts",
+        "path": "/projects/modern_jetton/message.cell.ts",
+        "type": "default"
+      }
+    ],
+    "active": {
+      "path": "/projects/modern_jetton/message.cell.ts",
+      "type": "default"
+    }
+  },
+  "name": "modern_jetton",
+  "language": "func",
+  "template": "import",
+  "network": "SANDBOX",
+  "selectedContract": "/projects/modern_jetton/contracts/jetton-wallet.fc"
+}
